@@ -1,1 +1,1 @@
-api_key=""
+g_key="AIzaSyAIfPkaYouRdWPoEMM_DEURJ8b-_V_7umM"
